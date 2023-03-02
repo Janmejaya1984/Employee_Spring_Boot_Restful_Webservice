@@ -21,3 +21,9 @@
 2023-03-02 14:41:48 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
 2023-03-02 14:41:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8083 (http) with context path ''
 2023-03-02 14:41:48 [restartedMain] INFO  com.example.dbdemo.DbdemoApplication - Started DbdemoApplication in 24.817 seconds (JVM running for 32.112)
+2023-03-02 15:05:18 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 13 class path changes (0 additions, 13 deletions, 0 modifications)
+2023-03-02 15:05:18 [Thread-1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-03-02 15:05:18 [Thread-1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-02 15:05:18 [Thread-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-03-02 15:05:18 [Thread-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-03-02 15:05:18 [restartedMain] INFO  com.example.dbdemo.DbdemoApplication - ---DbDemoApplication bootstraped-----
